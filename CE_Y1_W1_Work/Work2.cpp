@@ -7,5 +7,5 @@ int main() {
 	scanf_s("%f", &x);
 	printf("Enter the second length : ");
 	scanf_s("%f", &y);
-	printf("%f", sqrt(pow(x, 2) + pow(y, 2)) );
+	printf("The Answer is %f", sqrt(pow(x, 2) + pow(y, 2)) );
 }
